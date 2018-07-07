@@ -33,3 +33,7 @@
 
 # Vulkan stuff
 *.spv
+
+
+VulkanTest
+vk_apidump.txt
