@@ -9,6 +9,8 @@
 #define STB_IMAGE_IMPLEMENTATION
 #include "stb_image.h"
 
+#include "tiny_obj_loader.h"
+
 #include <array>
 #include <chrono>
 #include <cstdlib>
