@@ -19,4 +19,4 @@ test: VulkanTest
 	./VulkanTest
 
 clean:
-	rm -f VulkanTest *.spv
+	rm -f VulkanTest *.spv vk_apidump.txt
